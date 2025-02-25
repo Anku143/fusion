@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Filson Pro';
+    src: url('../fonts/FilsonPro-Bold.eot');
+    src: local('../fonts/Filson Pro Bold'), local('../fonts/FilsonPro-Bold'),
+        url('../fonts/../fonts/FilsonPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FilsonPro-Bold.woff2') format('woff2'),
+        url('../fonts/FilsonPro-Bold.woff') format('woff'),
+        url('../fonts/FilsonPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Filson Pro';
+    src: url('../fonts/FilsonPro-Heavy.eot');
+    src: local('../fonts/Filson Pro Heavy'), local('../fonts/FilsonPro-Heavy'),
+        url('../fonts/FilsonPro-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FilsonPro-Heavy.woff2') format('woff2'),
+        url('../fonts/FilsonPro-Heavy.woff') format('woff'),
+        url('../fonts/FilsonPro-Heavy.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Filson Pro';
+    src: url('../fonts/FilsonPro-Light.eot');
+    src: local('../fonts/Filson Pro Light'), local('../fonts/FilsonPro-Light'),
+        url('../fonts/FilsonPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FilsonPro-Light.woff2') format('woff2'),
+        url('../fonts/FilsonPro-Light.woff') format('woff'),
+        url('../fonts/FilsonPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Filson Pro';
+    src: url('../fonts/FilsonPro-Medium.eot');
+    src: local('../fonts/Filson Pro Medium'), local('../fonts/FilsonPro-Medium'),
+        url('../fonts/FilsonPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FilsonPro-Medium.woff2') format('woff2'),
+        url('../fonts/FilsonPro-Medium.woff') format('woff'),
+        url('../fonts/FilsonPro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Filson Pro';
+    src: url('../fonts/FilsonPro-Regular.eot');
+    src: local('../fonts/Filson Pro Regular'), local('../fonts/FilsonPro-Regular'),
+        url('../fonts/FilsonPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FilsonPro-Regular.woff2') format('woff2'),
+        url('../fonts/FilsonPro-Regular.woff') format('woff'),
+        url('../fonts/FilsonPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Filson Pro';
+    src: url('../fonts/FilsonPro-Thin.eot');
+    src: local('../fonts/Filson Pro Thin'), local('../fonts/FilsonPro-Thin'),
+        url('../fonts/FilsonPro-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FilsonPro-Thin.woff2') format('woff2'),
+        url('../fonts/FilsonPro-Thin.woff') format('woff'),
+        url('../fonts/FilsonPro-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
